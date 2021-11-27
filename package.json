@@ -1,0 +1,24 @@
+{
+  "name": "stripe-apple-pay",
+  "version": "1.0.0",
+  "description": "README.md file created",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mozahedul/stripe-apple-pay-ngrok.git"
+  },
+  "author": "Mozahedul Islam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mozahedul/stripe-apple-pay-ngrok/issues"
+  },
+  "homepage": "https://github.com/Mozahedul/stripe-apple-pay-ngrok#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "stripe": "^8.191.0"
+  }
+}
